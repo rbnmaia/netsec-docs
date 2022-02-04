@@ -8,7 +8,6 @@
 
 Compilation of study links and information for pursuit certifications. :computer: :coffee:
 
-# Blogs, YouTube Channels, Twitch Streamers, and Podcasts
 
 ## Cyber Security Blogs to Follow
 (sorted alphabetically)
