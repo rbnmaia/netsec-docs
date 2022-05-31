@@ -1,30 +1,12 @@
-# What is MyProduct?
+# Purple Lists
 
-{% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
-{% endhint %}
+Purple Lists are a source of information to help individuals to be proficient in offensive security by providing a set of examples for each phase of a penetration test engagement.
 
-Here are a couple of examples of succinct overviews from products with really great docs:
+With Purple Lists, you can set as a reference "framework" to follow while you practice your skill-set and tune it as you go, without the need of memorizing dozens of commands (over time your brain will mechanize it).
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
-
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+Either you are on the field or just starting, you will find some great notes to get you started.
 
 ## Getting Started
-
-**Got 2 minutes?** Check out a video overview of our product:
-
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
-
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
 
 ### Guides: Jump right in
 
@@ -42,13 +24,9 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [advanced-permissions.md](guides/advanced-permissions.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
 ### Fundamentals: Dive a little deeper
 
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
+Learn the fundamentals to get a deeper understanding on different areas:
 
 {% content-ref url="fundamentals/projects.md" %}
 [projects.md](fundamentals/projects.md)
@@ -66,6 +44,14 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 [tasks.md](fundamentals/tasks.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
+### Disclaimer
+
+{% hint style="danger" %}
+**Good to know:**&#x20;
+
+Any actions and or activities related to material contained within this website are solely your responsibility.
+
+The misuse of information on this website can result in criminal charges brought against the persons in question.
+
+The author will not be held responsible in the event any criminal charges be brought against any individuals misusing the information in this website to break the law.
 {% endhint %}
