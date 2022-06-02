@@ -10,13 +10,13 @@
   * [Enumeration](methodology/steps/enumeration.md)
 * [Template](guides/advanced-permissions.md)
 
-## Fundamentals 101
+## CTF Fundamentals 101
 
-* [Crypto](fundamentals/projects.md)
-* [Forensics](fundamentals/members.md)
-  * [Stegno](fundamentals/tasks.md)
-* [PWN](fundamentals/task-lists.md)
-* [Reverse](fundamentals-101/reverse.md)
+* [Crypto](ctf-fundamentals-101/crypto.md)
+* [Forensics](ctf-fundamentals-101/forensics/README.md)
+  * [Stegno](ctf-fundamentals-101/forensics/stegno.md)
+* [PWN](ctf-fundamentals-101/pwn.md)
+* [Reverse](ctf-fundamentals-101/reverse.md)
 
 ## Learning
 
