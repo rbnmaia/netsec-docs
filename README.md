@@ -12,36 +12,36 @@ Either you are on the field or just starting, you will find some great notes to 
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/creating-your-first-project.md)
+{% content-ref url="methodology/mindmap.md" %}
+[mindmap.md](methodology/mindmap.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
+{% content-ref url="methodology/steps/" %}
+[steps](methodology/steps/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
+{% content-ref url="methodology/template.md" %}
+[template.md](methodology/template.md)
 {% endcontent-ref %}
 
 ### Fundamentals: Dive a little deeper
 
 Learn the fundamentals to get a deeper understanding on different areas:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
+{% content-ref url="fundamentals-101/crypto.md" %}
+[crypto.md](fundamentals-101/crypto.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="fundamentals-101/forensics/" %}
+[forensics](fundamentals-101/forensics/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
+{% content-ref url="fundamentals-101/pwn.md" %}
+[pwn.md](fundamentals-101/pwn.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
+{% content-ref url="fundamentals-101/forensics/stegno.md" %}
+[stegno.md](fundamentals-101/forensics/stegno.md)
 {% endcontent-ref %}
 
 ### Disclaimer

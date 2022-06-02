@@ -2,28 +2,29 @@
 
 * [Purple Lists](README.md)
 
-## Guides
+## Methodology
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Mindmap](methodology/mindmap.md)
+* [Steps](methodology/steps/README.md)
+  * [Recon](methodology/steps/recon.md)
+  * [Enumeration](methodology/steps/enumeration.md)
+* [Template](methodology/template.md)
 
-## Fundamentals
+## Fundamentals 101
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Crypto](fundamentals-101/crypto.md)
+* [Forensics](fundamentals-101/forensics/README.md)
+  * [Stegno](fundamentals-101/forensics/stegno.md)
+* [PWN](fundamentals-101/pwn.md)
+* [Reverse](fundamentals-101/reverse.md)
 
-## Use Cases
+## Learning
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [Write-Ups](learning/write-ups/README.md)
+  * [Things](learning/write-ups/things.md)
 
 ## Extras
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Cheat Sheets](extras/cheat-sheets.md)
+* [Resources](extras/resources.md)
+* [Who to Follow](extras/who-to-follow.md)
