@@ -1,13 +1,17 @@
 # Mindmap
 
 {% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**The best way to engage a challenge is always to define a process or the tools and respective techniques that will quickly get us some low hanging fruit and move from there into something more complex.**
 {% endhint %}
 
-## The basics
+## The mindmap concept
 
-Projects are containers for task lists. Think of them as a library for everything your team needs to get done to complete or ship a project.
+_A mind map is a diagram used to visually organize information in a hierarchy, showing relationships among pieces of the whole. It is often created around a single concept, drawn as an image in the center of a blank page, to which associated representations of ideas such as images, words and parts of words are added. - \<Wikipedia>_
 
-## Creating a project
+Ok, cool now tell me how can we utilize it for offensive security? Pretty simple, we need to define what techniques and tools we have for the most important part the Enumeration.
 
-Hit the big '+' button in your sidebar and select 'New Project' from the menu that pops up. Give your project a name, and you're good to go!
+I would express that Enumeration is critical for success and to not get stuck in a challenge or even on a real world acessment.
+
+### An example mindmap
+
+![https://coggle.it/diagram/XepDvoXedGCjPc1Y/t/enumeration-mindmap](../.gitbook/assets/offsec.png)
