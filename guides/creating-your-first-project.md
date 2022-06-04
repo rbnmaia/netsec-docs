@@ -10,7 +10,7 @@ _A mind map is a diagram used to visually organize information in a hierarchy, s
 
 Ok, cool now tell me how can we utilize it for offensive security? Pretty simple, we need to define what techniques and tools we have for the most important part the Enumeration.
 
-I would express that Enumeration is critical for success and to not get stuck in a challenge or even on a real world acessment.
+I would express that Enumeration is critical for success and to not get stuck in a challenge or even on a real world assessment.
 
 ### An example mindmap
 
