@@ -1,7 +1,7 @@
 # Mindmap
 
 {% hint style="info" %}
-The best way to engage a challenge is always to define a process or the tools and respective techniques that will quickly get us some low hanging fruit and move from there into something more complex.&#x20;
+**The best way to engage a challenge is always to define a process or the tools and respective techniques that will quickly get us some low hanging fruit and move from there into something more complex.**
 {% endhint %}
 
 ## The mindmap concept
