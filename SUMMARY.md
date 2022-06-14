@@ -6,9 +6,21 @@
 
 * [Mindmap](guides/creating-your-first-project.md)
 * [Steps](guides/creating-your-first-task.md)
-  * [Recon](methodology/steps/recon.md)
-  * [Enumeration](methodology/steps/enumeration.md)
-* [Template](guides/advanced-permissions.md)
+  * [Planning and Reconnaissance](methodology/steps/planning-and-reconnaissance/README.md)
+    * [Active Reconnaissance](methodology/steps/planning-and-reconnaissance/active-reconnaissance.md)
+    * [Passive Reconnaissance](methodology/steps/planning-and-reconnaissance/passive-reconnaissance.md)
+  * [Scanning](methodology/steps/scanning/README.md)
+    * [Bruteforcing](methodology/steps/scanning/bruteforcing.md)
+    * [Enumeration](methodology/steps/scanning/enumeration.md)
+  * [Page 1](methodology/steps/page-1.md)
+  * [Gaining System Access](methodology/steps/gaining-system-access/README.md)
+    * [Exploitation](methodology/steps/gaining-system-access/exploitation.md)
+    * [Windows PrivEsc](methodology/steps/gaining-system-access/windows-privesc.md)
+    * [Linux PrivEsc](methodology/steps/gaining-system-access/linux-privesc.md)
+  * [Persistent Access](methodology/steps/persistent-access/README.md)
+    * [Shell](methodology/steps/persistent-access/shell.md)
+  * [Analysis and Reporting](methodology/steps/analysis-and-reporting/README.md)
+    * [Template](methodology/steps/analysis-and-reporting/template.md)
 
 ## CTF Fundamentals 101
 
