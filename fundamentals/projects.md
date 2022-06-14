@@ -4,7 +4,9 @@ description: Useful resources during cryptography challenges or hash identificat
 
 # Crypto
 
-info
+{% hint style="info" %}
+This resources can save time and reduce frustration.
+{% endhint %}
 
 ****
 
