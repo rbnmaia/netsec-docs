@@ -28,5 +28,6 @@
 
 * [Cheat Sheets](extras/cheat-sheets/README.md)
   * [MSFvenom](extras/cheat-sheets/msfvenom.md)
+* [OSCP Resources](extras/oscp-resources.md)
 * [Resources](extras/resources.md)
 * [Who to Follow](extras/who-to-follow.md)
