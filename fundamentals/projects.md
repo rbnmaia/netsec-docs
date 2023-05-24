@@ -8,7 +8,7 @@ description: Useful resources during cryptography challenges or hash identificat
 This resources can save time and reduce frustration.
 {% endhint %}
 
-****
+
 
 **Common Ciphers in CTFs:**
 
