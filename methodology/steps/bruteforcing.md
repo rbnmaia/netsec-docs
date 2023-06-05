@@ -12,6 +12,8 @@ Dirsearch - [https://github.com/maurosoria/dirsearch/blob/master/db/dicc.txt](ht
 
 Assetnote - [https://wordlists.assetnote.io/](https://wordlists.assetnote.io/)
 
+OneRuleToRuleThemAll - [https://github.com/d4rkduck1/OneRuleToRuleThemAll](https://github.com/d4rkduck1/OneRuleToRuleThemAll)
+
 ```
 // For removing duplications in wordlist 
 cat wordlist.txt| sort | uniq > new_word.txt
@@ -19,7 +21,7 @@ cat wordlist.txt| sort | uniq > new_word.txt
 
 By default Kali should already ship with the following wordlists:
 
-![https://www.kali.org/tools/wordlists/](../../../.gitbook/assets/wordlists.png)
+![https://www.kali.org/tools/wordlists/](../../.gitbook/assets/wordlists.png)
 
 ### Directory Bruteforce&#x20;
 
