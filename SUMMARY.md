@@ -41,7 +41,7 @@
   * [Stegno](fundamentals/tasks.md)
 * [Networking](ctf-fundamentals-101/networking.md)
 * [PWN](fundamentals/task-lists.md)
-* [Reverse](ctf-fundamentals-101/reverse/README.md)
+* [Reverse](fundamentals-101/reverse.md)
   * [Windows PE](ctf-fundamentals-101/reverse/windows-pe.md)
   * [X86](ctf-fundamentals-101/reverse/x86.md)
   * [Tools](ctf-fundamentals-101/reverse/tools.md)
