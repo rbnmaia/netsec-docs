@@ -44,4 +44,5 @@ A professional report is expected in the end of any engagement. Down below there
 
 * [https://www.hackthebox.com/blog/penetration-testing-reports-template-and-guide](https://www.hackthebox.com/blog/penetration-testing-reports-template-and-guide)
 * [https://purplesec.us/wp-content/uploads/2019/12/Sample-Penetration-Test-Report-PurpleSec.pdf](https://purplesec.us/wp-content/uploads/2019/12/Sample-Penetration-Test-Report-PurpleSec.pdf)
+* [https://www.offsec.com/reports/sample-penetration-testing-report.pdf](https://www.offsec.com/reports/sample-penetration-testing-report.pdf)
 
