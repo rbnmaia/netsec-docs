@@ -38,5 +38,5 @@ python3 windapsearch.py -d host.domain -u domain\\ldapbind -p PASSWORD -U
 
 ### References:
 
-* PayloadAllTheThings: https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md#most-common-paths-to-ad-compromise
-* Attacking Active Directory: 0 to 0.9: https://zer1t0.gitlab.io/posts/attacking\_ad/
+* PayloadAllTheThings: [https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md#most-common-paths-to-ad-compromise](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md#most-common-paths-to-ad-compromise)
+* Attacking Active Directory: 0 to 0.9: [https://zer1t0.gitlab.io/posts/attacking\_ad](https://zer1t0.gitlab.io/posts/attacking\_ad/)
