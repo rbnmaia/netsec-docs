@@ -37,8 +37,7 @@
 ## CTF Fundamentals 101
 
 * [Crypto](fundamentals/projects.md)
-* [Forensics](fundamentals/members.md)
-  * [Stegno](fundamentals/tasks.md)
+* [Forensics](ctf-fundamentals-101/forensics.md)
 * [Networking](ctf-fundamentals-101/networking.md)
 * [PWN](fundamentals/task-lists.md)
 * [Reverse](fundamentals-101/reverse.md)
@@ -48,13 +47,10 @@
 
 ## Learning
 
-* [Write-Ups](use-cases/for-designers/README.md)
-  * [Things](use-cases/for-designers/figma-integration.md)
+* [Write-Ups](learning/write-ups.md)
 
 ## Extras
 
-* [Cheat Sheets](extras/cheat-sheets/README.md)
-  * [MSFvenom](extras/cheat-sheets/msfvenom.md)
 * [OSCP Resources](extras/oscp-resources.md)
 * [Resources](extras/resources.md)
 * [Who to Follow](extras/who-to-follow.md)

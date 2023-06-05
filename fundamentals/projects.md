@@ -1,7 +1,3 @@
----
-description: Useful resources during cryptography challenges or hash identification.
----
-
 # Crypto
 
 {% hint style="info" %}
